@@ -1,2 +1,2 @@
-# Regression_BodyFat
-Regression Analysis before Regularization
+# RegressionRegularization_BodyFat
+Regression Analysis and Ridge and LASSO Regularization
